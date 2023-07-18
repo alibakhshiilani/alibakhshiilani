@@ -15,8 +15,6 @@ I am A Software Engineer From Iran
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
-   
-    <!-- Vs Code -->
    <a target="_blank" href="https://code.visualstudio.com/" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
    <!-- Typescript -->
