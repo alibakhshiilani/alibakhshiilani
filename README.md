@@ -15,7 +15,8 @@ I am A Software Engineer From Iran
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
-   <!-- Vs Code -->
+   
+    <!-- Vs Code -->
    <a target="_blank" href="https://code.visualstudio.com/" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
    <!-- Typescript -->
@@ -33,6 +34,9 @@ I am A Software Engineer From Iran
    <!-- php -->
    <a target="_blank" href="https://php.net" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHO" width="40" height="40"/></a>
+   <!-- Laravel -->
+   <a target="_blank" href="https://laravel.com/" >
+   <img src="https://img.icons8.com/?size=512&id=lRjcvhvtR81o&format=png" alt="" width="40" height="40"/></a>
    <!-- mysql -->
    <a target="_blank" href="https://mysql.com" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/></a>
