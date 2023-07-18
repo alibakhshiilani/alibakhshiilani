@@ -18,6 +18,9 @@ I am A Software Engineer From Iran
    <!-- Vs Code -->
    <a target="_blank" href="https://code.visualstudio.com/" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
+   <!-- Typescript -->
+   <a target="_blank" href="https://typescript.com/" >
+   <img src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png" alt="Typescript" width="40" height="40"/></a>
    <!-- Docker -->
    <a target="_blank" href="https://www.docker.com/" >
    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
@@ -29,10 +32,10 @@ I am A Software Engineer From Iran
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
    <!-- php -->
    <a target="_blank" href="https://php.net" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Golang" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHO" width="40" height="40"/></a>
    <!-- mysql -->
    <a target="_blank" href="https://mysql.com" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Golang" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/></a>
    <!-- Python -->
    <a target="_blank" href="https://python.org" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
