@@ -59,3 +59,7 @@ I am A Software Engineer From Iran
    <a target="_blank" href="https://www.gnu.org/software/bash/">
    <img src="https://img.icons8.com/ios-glyphs/60/79589f/console.png" alt="Bash"  width="40" height="40"/></a>
 </p>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alibakhshiilani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
